@@ -1,0 +1,8 @@
+{
+  "id": "correo_001",
+  "titulo": "Bienvenido",
+  "mensaje": "Gracias por jugar.",
+  "recompensas": [
+    { "tipo": "oro", "cantidad": 100 }
+  ]
+}
