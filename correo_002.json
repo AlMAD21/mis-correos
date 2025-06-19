@@ -1,8 +1,14 @@
 {
   "id": "correo_002",
-  "titulo": "Un impulso para comenzar",
-  "mensaje": "Gracias por jugar.",
+  "titulo": {
+    "ES": "Regalo para ti",
+    "EN": "Gift for you"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "item", "id":"FunnyMushroom", "invent":"Ingredient", "cantidad": 5 }
+    { "tipo": "item", "iname":"FunnyMushroom", "invent":"Ingredient", "cantidad": 5 }
   ]
 }
