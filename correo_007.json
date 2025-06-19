@@ -1,0 +1,8 @@
+{
+  "id": "correo_007",
+  "titulo": "Ve tu futuro 2",
+  "mensaje": "Gracias por jugar.",
+  "recompensas": [
+    { "tipo": "premium", "cantidad": 5 }
+  ]
+}
