@@ -1,8 +1,14 @@
 {
   "id": "correo_004",
-  "titulo": "Ve tu futuro",
-  "mensaje": "Gracias por jugar.",
+  "titulo": {
+    "ES": "Preparate para la exploración",
+    "EN": "Get ready to explore"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "premium", "cantidad": 5 }
+    { "tipo": "item", "iname":"PinkVenom", "invent":"Catalyst", "cantidad": 5 }
   ]
 }
