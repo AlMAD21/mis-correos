@@ -9,6 +9,6 @@
     "EN": "Thanks for playing."
   },
   "recompensas": [
-    { "tipo": "item", "iname":"PinkVenom", "invent":"Catalyst", "cantidad": 5 }
+    { "tipo": "item", "iname":"PinkVenom", "invent":"Catalyst", "cantidad": 3 }
   ]
 }
