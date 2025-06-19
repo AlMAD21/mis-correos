@@ -1,8 +1,14 @@
 {
-  "id": "correo_002",
-  "titulo": "Ve tu futuro",
-  "mensaje": "Gracias por jugar.",
+  "id": "correo_003",
+  "titulo": {
+    "ES": "Conoce tu fortuna",
+    "EN": "Know your fortune"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "premium", "cantidad": 5 }
+    { "tipo": "item", "iname":"IntenseFruit", "invent":"Ingredient", "cantidad": 5 }
   ]
 }
