@@ -1,8 +1,18 @@
 {
   "id": "correo_001",
-  "titulo": "Bienvenido",
-  "mensaje": "Gracias por jugar.",
+  "titulo": {
+    "ES": "¡Bienvenido!",
+    "EN": "Welcome!"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "oro", "cantidad": 100 }
+    {
+      "tipo": "premium",
+      "cantidad": 5
+    }
   ]
 }
+
