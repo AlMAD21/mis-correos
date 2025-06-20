@@ -1,8 +1,14 @@
 {
   "id": "correo_006",
-  "titulo": "Recursos gracias",
-  "mensaje": "Gracias por jugar.",
+  "titulo": {
+    "ES": "Un pequeño regalo",
+    "EN": "A little present"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "item", "id":"FunnyMushroom", "invent":"Ingredient", "cantidad": 5 }
+    { "tipo": "dinero", "cantidad": 5 }
   ]
 }
