@@ -1,8 +1,14 @@
 {
   "id": "correo_007",
-  "titulo": "Ve tu futuro 2",
-  "mensaje": "Gracias por jugar.",
+  "titulo": {
+    "ES": "Algo extra",
+    "EN": "Something extra"
+  },
+  "mensaje": {
+    "ES": "Gracias por jugar.",
+    "EN": "Thanks for playing."
+  },
   "recompensas": [
-    { "tipo": "premium", "cantidad": 5 }
+    { "tipo": "dinero", "cantidad": 5 }
   ]
 }
